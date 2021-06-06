@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient( #5544e7,#e83eee);
+    font-size: 25px;
+    color:#fcfcfc;
+    font-family: 'Coming Soon', cursive;
+}
+img{
+    height:250px;
+    width:250px;
+     border-radius: 75px;
+    border: 5px #870cd8 ridge;
+    
+}
